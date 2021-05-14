@@ -23,4 +23,4 @@ take the ticket id and place it in exit: curl "https://uxg8knhf13.execute-api.us
 and will get back: {"plate": "123-123", "totalParkedTimeMinuets": 1.8181206186612446, "parkingLot": "387", "price": 0.0}
 <br>
 <br>
-pricing is in 15 minuet increments
+pricing is in 15 minute increments
