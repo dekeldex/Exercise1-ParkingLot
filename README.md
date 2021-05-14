@@ -18,8 +18,7 @@ you can run entry as such: curl "https://rphzvo9694.execute-api.us-east-1.amazon
 and will get back a ticket id: {"ticketId": "204208e0-b4c9-11eb-99ca-bb21dde0cf03"}
 <br>
 <br>
-take the ticket id and place it in exit: curl "https://uxg8knhf13.execute-api.us-e
-ast-1.amazonaws.com/?ticketId=204208e0-b4c9-11eb-99ca-bb21dde0cf03"
+take the ticket id and place it in exit: curl "https://uxg8knhf13.execute-api.us-east-1.amazonaws.com/?ticketId=204208e0-b4c9-11eb-99ca-bb21dde0cf03"
 <br>
 and will get back: {"plate": "123-123", "totalParkedTimeMinuets": 1.8181206186612446, "parkingLot": "387", "price": 0.0}
 <br>
